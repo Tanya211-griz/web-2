@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^tesk1/(.*)$ http://u68657.kubsu-dev.ru/tesk1/$1 [R=301,L]
